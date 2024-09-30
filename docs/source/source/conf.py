@@ -4,7 +4,7 @@
 
 project = 'Tower Semiconductor PH18MCG PDK Documentation'
 copyright = '2023 Latitude Design Systems PTE. LTD.'
-author = 'Latitude Design Systems.com'
+author = 'https://www.latitudeds.com/'
 
 release = '1.0'
 version = '1.0.0'
