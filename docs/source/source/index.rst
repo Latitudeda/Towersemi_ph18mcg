@@ -1,5 +1,5 @@
-Tower Semiconductor PH18MCG Documentation
-=============================================
+Tower Semiconductor PH18MCG documentation
+============================================
 
 .. toctree::
    :hidden:
