@@ -1,7 +1,7 @@
 auto_link.py
 =============
 
-Define the auto link policies between different waveguide type.
+Define the auto link policies between different waveguide types.
 
 For example:
 

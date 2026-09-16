@@ -3,17 +3,25 @@ PDK structure
 
 Process Design Kit (PDK) is a tool for designated users to generate circuit layouts based on Tower Semiconductor design rules and technology settings.
 
-``towersemi_ph18mcg`` package includes four subfolders: ``components``, ``examples``, ``technology``, and ``util``.
+``towersemi_ph18mcg`` package includes four subfolders: ``components``, ``examples``, ``schematic``, ``symbols``, ``technology``, and ``util``.
 
 * ``components``
 
     * Fixed cells: All fixed cells, including ``Cross``, ``Directional Coupler``, ``Grating Coupler``, ``MultiMode Interferometer``, ``Phase Shifter``, ``Photodiode``, ``S bend``, ``Towersemi_bend``, ``Towersemi_taper``, ``Y junction``, ``Transition`` and ``Towersemi_wg`` are named and designed by **Tower Semiconductor** and cannot be changed.
 
-    * Parametrized cells (PCells): Designed by **LDA**, including ``Bend``, ``Bond Pad``, ``Taper`` and ``Straight``. Please see ``gpdk > components`` for more designed components by **LDA**.
+    * Parametrized cells (PCells): Designed by **LDS**, including ``Bend``, ``Bond Pad``, ``Taper`` and ``Straight``. Please see ``gpdk > components`` for more designed components by **LDS**.
 
 * ``examples``
 
-    * ``link.py`` : Test circuit to test if the cell (``mmi1x2_NWG_TE_O``), auto routing, and auto link function works normally under the PDK setting. Please see ``gpdk > examples`` for more circuit examples.
+    * ``link.py`` : Test circuit to test if auto routing, and auto link function works normally under the PDK setting. Please see ``gpdk > examples`` for more circuit examples.
+
+* ``schematic``
+
+    * Store the schematic setting for linking PhotoCAD to AdvancedSDL.
+
+* ``symbols``
+
+    * Store the symbol setting for linking PhotoCAD to AdvancedSDL.
 
 * ``technology``
 
@@ -27,9 +35,8 @@ Process Design Kit (PDK) is a tool for designated users to generate circuit layo
 
     * Please see **PhotoCAD** online manual for more information.
 
-* ``layers.lyp`` : This file allows layout tools e.g. Klayout to recognize the layer information when displaying gds file to the layout tool.
+* ``layers.lyp`` : This file allows layout tools e.g. KLayout to recognize the layer information when displaying gds file to the layout tool.
 
-    .. image:: ../images/lyp.png
+    .. image:: ../images/lyp1.png
     .. image:: ../images/lyp2.png
-    .. image:: ../images/lyp3.png
 

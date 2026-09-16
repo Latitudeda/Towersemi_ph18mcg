@@ -1,7 +1,7 @@
 wg folder
 ==========
 
-The waveguide setting are defined in the wg folder.
+The waveguide settings are defined in the wg folder.
 
 .. toctree::
    :hidden:

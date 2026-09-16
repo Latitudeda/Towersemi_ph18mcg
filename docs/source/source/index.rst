@@ -9,5 +9,5 @@ Tower Semiconductor PH18MCG documentation
    structure/index
    tech/index
    component_list/index
-
+   quick_start/index
 
