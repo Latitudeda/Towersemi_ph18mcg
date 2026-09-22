@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="217af960-5031-4b6f-9ec7-b0ba02b375d2" name="Changes" comment="update_260922">
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/bend.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/bondpad.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/cross.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/dc.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/gc.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/mmi.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/phase_shifter.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/photodiode.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/s_bend.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/taper.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/transition.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/waveguide.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/component_list/yjunction.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_NWG_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_NWG_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_NWG_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_NWG_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_RWG_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_RWG_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_RWG_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_RWG_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_SWG_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_SWG_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_SWG_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ARC_SWG_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ASDL_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ASDL_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ASDL_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ASDL_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ASDL_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ASDL_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ASDL_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ASDL_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ASDL_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ASDL_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/ASDL_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/BondPad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/BondPad_oct.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Cross_NWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Cross_NWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Cross_NWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Cross_NWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Cross_SWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Cross_SWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Cross_SWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Cross_SWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_NWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_NWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_NWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_NWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_RWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_RWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_RWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_RWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_SWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_SWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_SWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/DC_SWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/GC_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/GC_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/GC_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/GC_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/MPD_C_W10_L23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/MPD_C_W8p4_L18p4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/MPD_O_W10_L23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/MPD_O_W8p4_L18p4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_exponential_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_exponential_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_exponential_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_exponential_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_linear_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_linear_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_linear_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_linear_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_logarithmic_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_logarithmic_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_logarithmic_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_logarithmic_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_parabolic_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_parabolic_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_parabolic_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/NWG_parabolic_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PD_C_W10_L23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PD_C_W8p4_L18p4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PD_O_W10_L23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PD_O_W8p4_L18p4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PS_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PS_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PhotoCAD_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PhotoCAD_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PhotoCAD_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PhotoCAD_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PhotoCAD_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PhotoCAD_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/PhotoCAD_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_exponential_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_exponential_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_exponential_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_exponential_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_linear_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_linear_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_linear_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_linear_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_logarithmic_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_logarithmic_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_logarithmic_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_logarithmic_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_parabolic_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_parabolic_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_parabolic_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/RWG_parabolic_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG2NWG_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG2NWG_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG2NWG_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG2NWG_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG2RWG_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG2RWG_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG2RWG_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG2RWG_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_exponential_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_exponential_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_exponential_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_exponential_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_linear_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_linear_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_linear_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_linear_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_logarithmic_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_logarithmic_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_logarithmic_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_logarithmic_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_parabolic_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_parabolic_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_parabolic_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/SWG_parabolic_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_NWG_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_NWG_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_NWG_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_NWG_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_RWG_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_RWG_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_RWG_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_RWG_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_SWG_C_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_SWG_C_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_SWG_O_TE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Sbend_SWG_O_TM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_NWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_NWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_NWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_NWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_RWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_RWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_RWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_RWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_SWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_SWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_SWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/Yjunction_SWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/install.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/lyp1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/lyp2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x2_NWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x2_NWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x2_NWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x2_NWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x2_RWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x2_RWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x2_RWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x2_SWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x2_SWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x2_SWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x2_SWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x4_NWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x4_NWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x4_NWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x4_NWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x4_RWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x4_RWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x4_RWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x4_SWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x4_SWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x4_SWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi1x4_SWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi2x2_NWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi2x2_NWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi2x2_NWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi2x2_NWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi2x2_RWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi2x2_RWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi2x2_RWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi2x2_SWG_TE_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi2x2_SWG_TE_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi2x2_SWG_TM_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/images/mmi2x2_SWG_TM_O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/intro/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/intro/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/intro/install_IDE.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/intro/install_photocad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/intro/install_photocad.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/intro/requirement.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/quick_start/ASDL.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/quick_start/PhotoCAD.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/quick_start/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/structure/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/auto_link.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/auto_transition.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/bands.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/device.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/gdsii.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/labels.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/layers.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/metrics.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/terminal.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/wg.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/wg_SiN_strip.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/wg_SiN_strip_bends.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/wg_constant.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/wg_factory.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/wg_init.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/wg_ridge.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/wg_ridge_bends.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/wg_strip.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/wg_strip_bends.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/source/tech/wg_type.rst" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="255" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3JfHOWsL1Cwlvp0V8SIyhjRAhIV" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "V2609",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="217af960-5031-4b6f-9ec7-b0ba02b375d2" name="Changes" comment="" />
+      <created>1790045170272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790045170272</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update_260922">
+      <option name="closed" value="true" />
+      <created>1790045300268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790045300268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update_260922" />
+    <option name="LAST_COMMIT_MESSAGE" value="update_260922" />
+  </component>
+</project>
