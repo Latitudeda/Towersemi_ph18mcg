@@ -13,7 +13,9 @@ Process Design Kit (PDK) is a tool for designated users to generate circuit layo
 
 * ``examples``
 
-    * ``link.py`` : Test circuit to test if auto routing, and auto link function works normally under the PDK setting. Please see ``gpdk > examples`` for more circuit examples.
+    * ``link.py`` : Test circuit to verify the cell (``mmi1x2_NWG_TE_O``) and automatic link generation using different routing methods under the PDK setting. Please see ``gpdk > examples`` for more circuit examples.
+
+    * ``tech_demo.py`` : Test that waveguide types, metal wire types, auto routing, auto link and auto via function work normally under the PDK setting. Please see ``gpdk > examples`` for more circuit examples.
 
 * ``schematic``
 
