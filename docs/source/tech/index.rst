@@ -10,6 +10,7 @@ The technology in towersemi_ph18mcg holds a number of common configuration files
 
    auto_link
    auto_transition
+   auto_vias
    bands
    device
    gdsii
@@ -17,7 +18,9 @@ The technology in towersemi_ph18mcg holds a number of common configuration files
    layers
    metrics
    terminal
+   vias
    wg
+   metal
 
 
 

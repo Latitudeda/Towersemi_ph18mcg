@@ -13,9 +13,7 @@ Process Design Kit (PDK) is a tool for designated users to generate circuit layo
 
 * ``examples``
 
-    * ``link.py`` : Test circuit to verify the cell (``mmi1x2_NWG_TE_O``) and automatic link generation using different routing methods under the PDK setting. Please see ``gpdk > examples`` for more circuit examples.
-
-    * ``tech_demo.py`` : Test that waveguide types, metal wire types, auto routing, auto link and auto via function work normally under the PDK setting. Please see ``gpdk > examples`` for more circuit examples.
+    * ``tech_demo.py`` : Test that waveguide types, metal wire types, auto routing, auto link and auto vias function work normally under the PDK setting. Please see ``gpdk > examples`` for more circuit examples.
 
 * ``schematic``
 
@@ -37,8 +35,7 @@ Process Design Kit (PDK) is a tool for designated users to generate circuit layo
 
     * Please see **PhotoCAD** online manual for more information.
 
-* ``layers.lyp`` : This file allows layout tools e.g. KLayout to recognize the layer information when displaying gds file to the layout tool.
+* ``towersemi_ph18mcg.lyp`` : This file allows layout tools e.g. KLayout to recognize the layer information when displaying gds file to the layout tool.
 
-    .. image:: ../images/lyp1.png
-    .. image:: ../images/lyp2.png
+    .. image:: ../images/lyp.png
 
