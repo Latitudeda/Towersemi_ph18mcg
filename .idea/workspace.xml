@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="217af960-5031-4b6f-9ec7-b0ba02b375d2" name="Changes" comment="update_260922_source">
+    <list default="true" id="217af960-5031-4b6f-9ec7-b0ba02b375d2" name="Changes" comment="update_261012">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/conf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/intro/requirement.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/intro/requirement.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/structure/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/structure/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/tech/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/tech/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/tech/layers.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/tech/layers.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/tech/wg_init.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/tech/wg_init.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="266" />
+    <option name="cachedIndexableFilesCount" value="264" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,7 +78,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790045528536</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update_260928">
+      <option name="closed" value="true" />
+      <created>1790587199734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790587199734</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update_261012">
+      <option name="closed" value="true" />
+      <created>1791788477863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791788477863</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +103,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update_260922" />
     <MESSAGE value="update_260922_source" />
-    <option name="LAST_COMMIT_MESSAGE" value="update_260922_source" />
+    <MESSAGE value="update_260928" />
+    <MESSAGE value="update_261012" />
+    <option name="LAST_COMMIT_MESSAGE" value="update_261012" />
   </component>
 </project>
